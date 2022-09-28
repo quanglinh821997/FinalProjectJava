@@ -1,0 +1,16 @@
+
+\
+java:S1192""FDefine a constant instead of duplicating this literal "%-20d" 4 times.(‰‚¹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–¾Ø¬
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÙĞ“Ï
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯†ñßúÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ŸİL
+N	java:S106""9Replace this use of System.out or System.err by a logger.(‰‚¹
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(”™øÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ÿÒ¬Øúÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(â¯Şãşÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(“¢Ş¬øÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(È‡©øúÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+@
+java:S1128"*Remove this unused import 'Z_model.BillM'.(ŸøĞğ
